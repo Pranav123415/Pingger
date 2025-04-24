@@ -1,0 +1,13 @@
+{
+  "name": "pingger",
+  "version": "1.0.0",
+  "main": "ping-db.js",
+  "scripts": {
+    "start": "node ping-db.js"
+  },
+  "dependencies": {
+    "mongoose": "^7.0.0",
+    "node-cron": "^3.0.0"
+  }
+}
+
